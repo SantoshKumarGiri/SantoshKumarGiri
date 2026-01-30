@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Santosh Kumar Giri 👋
 
-<!--
-**SantoshKumarGiri/SantoshKumarGiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 System Engineer at Infosys  
+🐧 Linux | Docker | Kubernetes | AWS  
+⚙️ Shell Scripting | Git | GitHub | Java | Angular 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I am a System Engineer at Infosys with a strong interest in cloud infrastructure, DevOps practices, and platform reliability.  
+I enjoy learning by doing — building, deploying, and automating systems to become delivery-ready for real-world projects.
+
+---
+
+## 🛠️ Skills
+- Linux (RHEL)
+- Docker & Kubernetes
+- AWS (EC2, basics)
+- Shell Scripting
+- Git & GitHub
+- Java | Spring Boot | Angular
+
+---
+
+## 🚀 Learning & Projects
+- Deployed a static website on AWS EC2 using Nginx
+- Practicing Git workflows and GitHub collaboration
+- Exploring DevOps and cloud-native tools
+
+---
+
+## 📫 Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/santosh-kumar-giri-955609142
+🔗 Medium: https://medium.com/@santoshraj.nic
