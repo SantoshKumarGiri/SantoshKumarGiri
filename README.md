@@ -30,5 +30,5 @@ I enjoy learning by doing — building, deploying, and automating systems to bec
 ---
 
 ## 📫 Connect With Me
-🔗 LinkedIn: https://www.linkedin.com/in/santosh-kumar-giri-955609142
+🔗 LinkedIn: https://www.linkedin.com/in/santosh-kumar-giri-955609142 <br>
 🔗 Medium: https://medium.com/@santoshraj.nic
