@@ -107,7 +107,7 @@ AVAILABLE   : Open to DevOps & Cloud opportunities
 
 [AI & Leadership]
   ✅ Generative AI – Foundation | Intermediate | Applied
-  ✅ Google Generative AI Leader
+  ✅ Infosys Certified Google Generative AI Leader
   ✅ McKinsey Forward Program
 ```
 
@@ -117,11 +117,11 @@ AVAILABLE   : Open to DevOps & Cloud opportunities
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantoshKumarGiri&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050a0e&title_color=00e5ff&icon_color=39ff14&text_color=c8d8e8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantoshKumarGiri&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050a0e&title_color=00e5ff&icon_color=39ff14&text_color=c8d8e8&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshKumarGiri&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050a0e&title_color=00e5ff&text_color=c8d8e8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshKumarGiri&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050a0e&title_color=00e5ff&text_color=c8d8e8&cache_seconds=1800&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SantoshKumarGiri&theme=dark&hide_border=true&background=050a0e&ring=00e5ff&fire=39ff14&currStreakLabel=00e5ff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SantoshKumarGiri&theme=dark&hide_border=true&background=050a0e&ring=00e5ff&fire=39ff14&currStreakLabel=00e5ff)
 
 </div>
 
@@ -135,7 +135,7 @@ echo "Let's connect and build something awesome!"
 
 LINKEDIN="https://linkedin.com/in/santosh-kumar-giri-955609142"
 GITHUB="https://github.com/SantoshKumarGiri"
-PORTFOLIO="https://SantoshKumarGiri.github.io"
+PORTFOLIO="https://santoshkumargiri.github.io"
 MEDIUM="https://medium.com/@santoshraj.nic"
 EMAIL="santoshraj.nic@gmail.com"
 
@@ -147,7 +147,7 @@ open $MEDIUM     # Read my blogs
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santosh-kumar-giri-955609142)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://SantoshKumarGiri.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://santoshkumargiri.github.io)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@santoshraj.nic)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santoshraj.nic@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantoshKumarGiri)
